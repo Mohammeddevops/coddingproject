@@ -1,3 +1,10 @@
+#this is a health management 
+#where the person use to enter the credential as 1 2 or 3 according to the question asked
+#basically the program is based om  type one is lock and another is retrive
+#The lock is where the user enter his routine of exercise and the food which is stored in the file
+#The routine is where the user can see what he is entered in the lock which is stored in the file he can see it with date and the routine of his.. 
+
+
 import datetime
 def getdate():
     return datetime.datetime.now()
